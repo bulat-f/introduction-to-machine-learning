@@ -1,0 +1,19 @@
+# vim
+*.swp
+~*
+*~
+
+# python
+/env/
+__*__
+
+# LaTeX
+*.log
+*.gz
+*.aux
+*.toc
+*.pdf
+
+# i/o files
+*.in
+*.out
